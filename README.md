@@ -1,6 +1,6 @@
 # Controle-Selecao-Candidatos
 
-Essa aplicação se trata de um desafio de programação referente a uma vaga de Programador Júnior, onde deve ser desenvolvida uma Aplicação para controle do de seleção de candidatos para vagas de emprego.
+Essa aplicação se trata de um desafio de programação referente a uma vaga de Programador Júnior, onde deve ser desenvolvida uma aplicação para controle de seleção de candidatos para vagas de emprego.
 
 --- 
 
